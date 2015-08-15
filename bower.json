@@ -1,0 +1,19 @@
+{
+  "name": "MusicMatcher",
+  "version": "0.0.1",
+  "authors": [
+    "Ilya Ivanov <static.ila@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angular": "~1.3.15"
+  }
+}
